@@ -833,7 +833,7 @@ main {
   list-style-position: iside;  /* Ensures bullets and text stay aligned */
   text-indent: -15px;           /* Adjust this value as needed for alignment */
   margin-left: 20px;           /* Adjust left margin */
-  margin-right: 15px;
+  margin-right: 20px;
   white-space: wrap;
   line-height: 1.6;             /* Controls the spacing between lines */
 }
