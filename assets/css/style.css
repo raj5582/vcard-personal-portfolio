@@ -831,6 +831,11 @@ main {
   margin-left: 20px;            /* Adjust left margin */
   line-height: 1.5;             /* Controls the spacing between lines */
   }
+
+  .custom-bullets {
+    list-style-type: square; /* Changes bullet to square */
+    margin-left: 20px;       /* Adjusts left margin */
+  }  
   
 }
 
