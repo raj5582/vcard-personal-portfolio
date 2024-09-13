@@ -835,7 +835,7 @@ main {
   .custom-bullets {
     list-style-type: square; /* Changes bullet to square */
     margin-left: 20px;       /* Adjusts left margin */
-    color: var(--light-gray);
+    color: #ffffff;
   }  
   
 }
