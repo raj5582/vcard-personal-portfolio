@@ -827,7 +827,7 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   list-style-position: inside;  /* Ensures bullets and text stay aligned */
-  text-indent: 15px;           /* Adjust this value as needed for alignment */
+  text-indent: -15px;           /* Adjust this value as needed for alignment */
   margin-left: 20px;            /* Adjust left margin */
   line-height: 1.5;             /* Controls the spacing between lines */
   }
